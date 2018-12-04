@@ -109,12 +109,12 @@ textarea {
     flex-basis: 10%;
     order: 1;
 }
-#nav_menu_index{
+#nav_menu{
     background-image: url(../img/nav_menu_background.jpg);
     order: 2;
     flex-basis: auto;
-    height: 29%;
-    margin: 0 20%
+    margin-left: auto;
+    margin-right: auto;
 }
 #hs_logo {
     flex-basis: auto;
@@ -160,7 +160,8 @@ textarea {
     order: 2;
     flex-basis: auto;
     height: 9%;
-    margin: 0 20%
+    margin-left: auto;
+    margin-right: auto;
 }
 #nav_menu_not_index ul {
     list-style-type: none;
